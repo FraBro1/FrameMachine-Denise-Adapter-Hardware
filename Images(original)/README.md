@@ -1,0 +1,1 @@
+pictures of the original adapter made by Electronic Design (Germany)
