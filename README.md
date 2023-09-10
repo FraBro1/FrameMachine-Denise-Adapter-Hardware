@@ -1,6 +1,9 @@
 # FrameMachine-Denise-Adapter(Hardware)
  Schematics and Board design (Clone) of the Adapter from "Electronic Design"
 
+To be useful, the socket used in the schematics need to be replaced with one having much longer turned pins.
+Atm it is an ordinary socket.
+
 There might still be errors; 
 i will re-trace and beep every connection again to be sure.
 
